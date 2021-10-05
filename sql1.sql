@@ -1,3 +1,9 @@
 CREATE DATABASE videoLinuxSSHSQL
 GO
 USE videoLinuxSSHSQL
+
+CREATE TABLE video (
+id 		INT			NOT NULL,
+video	VARCHAR(60)	NOT NULL
+PRIMARY KEY (id)
+)
