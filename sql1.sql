@@ -1,0 +1,3 @@
+CREATE DATABASE videoLinuxSSHSQL
+GO
+USE videoLinuxSSHSQL
